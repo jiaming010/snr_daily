@@ -2,8 +2,8 @@ title: snr_daily
 description: 每日 AI 技术动态：模型、论文、开源项目与开发工具。内容由 AI 整理，每条附原文链接。
 lang: zh-CN
 timezone: Asia/Shanghai
-url: https://jiaming010.github.io
-baseurl: /snr_daily
+url: https://snr-daily.github.io
+baseurl: ""
 theme: minima
 plugins:
   - jekyll-feed
